@@ -64,7 +64,6 @@ timeline
 
 ```mermaid
 flowchart TD
-    title ⚙️ Incident Management Workflow
     A[Incident Detected] --> B[Log Analysis with Splunk]
     B --> C[Root Cause Analysis]
     C --> D[Fix Implemented]
