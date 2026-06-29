@@ -62,7 +62,7 @@ timeline
     2026 : Targeting SRE / System Engineer Roles
 ```
 
-Example workflow diagram (incident management process):
+## ⚙️ Incident Management Process:
 
 ```mermaid
 flowchart TD
