@@ -60,11 +60,10 @@ timeline
     2022 : Production Support Engineer @ LexisNexis
     2025 : Certifications (Azure, Linux, Security+)
     2026 : Targeting SRE / System Engineer Roles
-
+```
 
 Example workflow diagram (incident management process):
 
-```markdown
 ```mermaid
 flowchart TD
     A[Incident Detected] --> B[Log Analysis with Splunk]
