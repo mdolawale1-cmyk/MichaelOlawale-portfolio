@@ -44,9 +44,10 @@ Production Support Engineer with 5+ years of experience in mission-critical bank
 ---
 
 ## 📬 Contact
-- Email: **mdolawale1@gmail.com**  
-- LinkedIn: [linkedin.com/in/michael-d-olawale-277727349](https://www.linkedin.com/in/michael-d-olawale-277727349)  
-- GitHub: [github.com/mdolawale1-cmyk](https://github.com/mdolawale1-cmyk)  
+[![Email](https://img.shields.io/badge/Email-mdolawale1%40gmail.com-red?logo=gmail&logoColor=white)](mailto:mdolawale1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_D_Olawale-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-d-olawale-277727349/)
+[![GitHub](https://img.shields.io/badge/GitHub-mdolawale1--cmyk-black?logo=github&logoColor=white)](https://github.com/mdolawale1-cmyk)
+
 
 ---
 
