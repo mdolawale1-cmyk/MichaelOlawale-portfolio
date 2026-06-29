@@ -1,7 +1,5 @@
 # Michael Dare Olawale
 
-# Michael Dare Olawale
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
