@@ -1,4 +1,4 @@
-# Michael Dare Olawale
+# Michael Olawale
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
